@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 # Follow the instruction to the run code.
--1.Clone the repo
--2.Open it in any IDE.
--3.npm install
--4.npm run dev
+- 1.Clone the repo
+- 2.Open it in any IDE.
+- 3.npm install
+- 4.npm run dev
